@@ -1,0 +1,16 @@
+# personal working notes
+step.md
+
+# node
+node_modules/
+dist/
+coverage/
+
+# env
+.env
+.env.*
+
+# os / editor
+.DS_Store
+Thumbs.db
+.vscode/
